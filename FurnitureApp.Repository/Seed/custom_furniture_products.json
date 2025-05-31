@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Wooden Dining Chair",
+    "Description": "A sturdy and stylish chair suitable for various settings, combining comfort with design.",
+    "Price": 200,
+    "ImageUrl": "Images/Product/Chairs/WoodenDiningChair.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Foldable Garden Chair",
+    "Description": "A sturdy and stylish chair suitable for various settings, combining comfort with design.",
+    "Price": 215,
+    "ImageUrl": "Images/Product/Chairs/FoldableGardenChair.jpg",
+    "QuantityInStock": 2,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Minimalist Office Chair",
+    "Description": "A sturdy and stylish chair suitable for various settings, combining comfort with design.",
+    "Price": 230,
+    "ImageUrl": "Images/Product/Chairs/Minimalist Office Chair.jpg",
+    "QuantityInStock": 3,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Vintage Rocking Chair",
+    "Description": "A sturdy and stylish chair suitable for various settings, combining comfort with design.",
+    "Price": 245,
+    "ImageUrl": "Images/Product/Chairs/Vintage Rocking Chair.jpg",
+    "QuantityInStock": 4,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Metal Frame Chair",
+    "Description": "A sturdy and stylish chair suitable for various settings, combining comfort with design.",
+    "Price": 260,
+    "ImageUrl": "Images/Product/Chairs/Metal Frame Chair.jpg",
+    "QuantityInStock": 5,
+    "CategoryId": 1
+  },
+  {
+    "Name": "High Back Kitchen Chair",
+    "Description": "A sturdy and stylish chair suitable for various settings, combining comfort with design.",
+    "Price": 275,
+    "ImageUrl": "Images/Product/Chairs/High Back Kitchen Chair.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Velvet Armchair",
+    "Description": "Comfortable and elegant armchair perfect for relaxing, reading, or watching TV.",
+    "Price": 200,
+    "ImageUrl": "Images/Product/Armchair/Velvet Armchair.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Reclining Armchair",
+    "Description": "Comfortable and elegant armchair perfect for relaxing, reading, or watching TV.",
+    "Price": 215,
+    "ImageUrl": "Images/Product/Armchair/Reclining Armchair.jpg",
+    "QuantityInStock": 2,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Tufted Armchair",
+    "Description": "Comfortable and elegant armchair perfect for relaxing, reading, or watching TV.",
+    "Price": 230,
+    "ImageUrl": "Images/Product/Armchair/Tufted Armchair.jpg",
+    "QuantityInStock": 3,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Mid-Century Armchair",
+    "Description": "Comfortable and elegant armchair perfect for relaxing, reading, or watching TV.",
+    "Price": 245,
+    "ImageUrl": "Images/Product/Armchair/Mid-Century Armchair.jpg",
+    "QuantityInStock": 4,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Swivel Armchair",
+    "Description": "Comfortable and elegant armchair perfect for relaxing, reading, or watching TV.",
+    "Price": 260,
+    "ImageUrl": "Images/Product/Armchair/Swivel Armchair.jpg",
+    "QuantityInStock": 5,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Classic Fabric Armchair",
+    "Description": "Comfortable and elegant armchair perfect for relaxing, reading, or watching TV.",
+    "Price": 275,
+    "ImageUrl": "Images/Product/Armchair/Classic Fabric Armchair.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Glass Coffee Table",
+    "Description": "A functional and decorative table that fits various home styles and purposes.",
+    "Price": 200,
+    "ImageUrl": "Images/Product/Tables/Glass Coffee Table.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Wooden Dining Table",
+    "Description": "A functional and decorative table that fits various home styles and purposes.",
+    "Price": 215,
+    "ImageUrl": "Images/Product/Tables/Wooden Dining Table.jpg",
+    "QuantityInStock": 2,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Round End Table",
+    "Description": "A functional and decorative table that fits various home styles and purposes.",
+    "Price": 230,
+    "ImageUrl": "Images/Product/Tables/Round End Table.jpg",
+    "QuantityInStock": 3,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Console Hall Table",
+    "Description": "A functional and decorative table that fits various home styles and purposes.",
+    "Price": 245,
+    "ImageUrl": "Images/Product/Tables/Console Hall Table.jpg",
+    "QuantityInStock": 4,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Rustic Farmhouse Table",
+    "Description": "A functional and decorative table that fits various home styles and purposes.",
+    "Price": 260,
+    "ImageUrl": "Images/Product/Tables/Rustic Farmhouse Table.jpg",
+    "QuantityInStock": 5,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Expandable Dining Table",
+    "Description": "A functional and decorative table that fits various home styles and purposes.",
+    "Price": 275,
+    "ImageUrl": "Images/Product/Tables/Expandable Dining Table.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Floor Reading Lamp",
+    "Description": "A lamp that combines practicality with aesthetic, enhancing ambiance and lighting.",
+    "Price": 200,
+    "ImageUrl": "Images/Product/Lamps/Floor Reading Lamp.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 4
+  },
+  {
+    "Name": "Adjustable Desk Lamp",
+    "Description": "A lamp that combines practicality with aesthetic, enhancing ambiance and lighting.",
+    "Price": 215,
+    "ImageUrl": "Images/Product/Lamps/Adjustable Desk Lamp.jpg",
+    "QuantityInStock": 2,
+    "CategoryId": 4
+  },
+  {
+    "Name": "Vintage Table Lamp",
+    "Description": "A lamp that combines practicality with aesthetic, enhancing ambiance and lighting.",
+    "Price": 230,
+    "ImageUrl": "Images/Product/Lamps/Vintage Table Lamp.jpg",
+    "QuantityInStock": 3,
+    "CategoryId": 4
+  },
+  {
+    "Name": "Modern Arc Lamp",
+    "Description": "A lamp that combines practicality with aesthetic, enhancing ambiance and lighting.",
+    "Price": 245,
+    "ImageUrl": "Images/Product/Lamps/Modern Arc Lamp.jpg",
+    "QuantityInStock": 4,
+    "CategoryId": 4
+  },
+  {
+    "Name": "Industrial Style Lamp",
+    "Description": "A lamp that combines practicality with aesthetic, enhancing ambiance and lighting.",
+    "Price": 260,
+    "ImageUrl": "Images/Product/Lamps/Industrial Style Lamp.jpg",
+    "QuantityInStock": 5,
+    "CategoryId": 4
+  },
+  {
+    "Name": "LED Standing Lamp",
+    "Description": "A lamp that combines practicality with aesthetic, enhancing ambiance and lighting.",
+    "Price": 275,
+    "ImageUrl": "Images/Product/Lamps/Industrial Style Lamp.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 4
+  },
+  {
+    "Name": "3-Seater Sofa",
+    "Description": "A stylish and comfortable sofa to upgrade your living room seating.",
+    "Price": 200,
+    "ImageUrl": "Images/Product/Sofa/3-Seater Sofa.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 5
+  },
+  {
+    "Name": "L-Shaped Sectional Sofa",
+    "Description": "A stylish and comfortable sofa to upgrade your living room seating.",
+    "Price": 215,
+    "ImageUrl": "Images/Product/Sofa/L-Shaped Sectional Sofa.jpg",
+    "QuantityInStock": 2,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Modern Grey Sofa",
+    "Description": "A stylish and comfortable sofa to upgrade your living room seating.",
+    "Price": 230,
+    "ImageUrl": "Images/Product/Sofa/Modern Grey Sofa.jpg",
+    "QuantityInStock": 3,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Velvet Loveseat",
+    "Description": "A stylish and comfortable sofa to upgrade your living room seating.",
+    "Price": 245,
+    "ImageUrl": "Images/Product/Sofa/Velvet Loveseat.jpg",
+    "QuantityInStock": 4,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Leather Recliner Sofa",
+    "Description": "A stylish and comfortable sofa to upgrade your living room seating.",
+    "Price": 260,
+    "ImageUrl": "Images/Product/Sofa/Leather Recliner Sofa.jpg",
+    "QuantityInStock": 5,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Classic Fabric Sofa",
+    "Description": "A stylish and comfortable sofa to upgrade your living room seating.",
+    "Price": 275,
+    "ImageUrl": "Images/Product/Sofa/Classic Fabric Sofa.jpg",
+    "QuantityInStock": 1,
+    "CategoryId": 5
+  }
+]
