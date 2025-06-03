@@ -12,7 +12,10 @@ namespace FurnitureApp.Core.Entities.Identity
     {
         public string? FullName { get; set; }
         public string? ProfileImage { get; set; }
+        public int? CartId { get; set; }
+        public Cart? Cart { get; set; }
         public ICollection<ShippingAddresses>? Addresses { get; set; } = new List<ShippingAddresses>();
         public ICollection<Reviews>? Reviews { get; set; } = new List<Reviews>();
+
     }
 }

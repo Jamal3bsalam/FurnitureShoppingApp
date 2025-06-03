@@ -2,7 +2,9 @@
 using AutoMapper;
 using FurnitureApp.Core;
 using FurnitureApp.Core.Entities.Identity;
+using FurnitureApp.Core.Repositories.Contract;
 using FurnitureApp.Core.Services.Contract.AccountService;
+using FurnitureApp.Core.Services.Contract.Cart;
 using FurnitureApp.Core.Services.Contract.Product;
 using FurnitureApp.Core.Services.Contract.Profile;
 using FurnitureApp.Core.Services.Contract.Review;
@@ -10,9 +12,11 @@ using FurnitureApp.Core.Services.Contract.ShippingAddress;
 using FurnitureApp.Core.Services.Contract.Token;
 using FurnitureApp.Repository;
 using FurnitureApp.Repository.Data.Context;
+using FurnitureApp.Repository.Repositories;
 using FurnitureApp.Repository.Seed;
 using FurnitureApp.Service.Services.AccountService;
 using FurnitureApp.Service.Services.AddressService;
+using FurnitureApp.Service.Services.CartsService;
 using FurnitureApp.Service.Services.ProductService;
 using FurnitureApp.Service.Services.ProfileService;
 using FurnitureApp.Service.Services.ReviewsService;
@@ -113,6 +117,8 @@ namespace FurnitureApp.PL
             builder.Services.AddScoped<IShippingAddressService,ShippingAddressService>();
             builder.Services.AddScoped<IProductsService,ProductsService>();
             builder.Services.AddScoped<IReviewService, ReviewService>();
+            builder.Services.AddScoped<ICartRepository, CartRepository>();
+            builder.Services.AddScoped<ICartService, CartService>();
 
             builder.Services.AddControllers()
                    .AddJsonOptions(options =>

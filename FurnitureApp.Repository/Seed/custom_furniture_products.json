@@ -5,7 +5,7 @@
     "Price": 200,
     "ImageUrl": "Images/Product/Chairs/WoodenDiningChair.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 1
+    "CategoryId": 5
   },
   {
     "Name": "Foldable Garden Chair",
@@ -13,7 +13,7 @@
     "Price": 215,
     "ImageUrl": "Images/Product/Chairs/FoldableGardenChair.jpg",
     "QuantityInStock": 2,
-    "CategoryId": 1
+    "CategoryId": 5
   },
   {
     "Name": "Minimalist Office Chair",
@@ -21,7 +21,7 @@
     "Price": 230,
     "ImageUrl": "Images/Product/Chairs/Minimalist Office Chair.jpg",
     "QuantityInStock": 3,
-    "CategoryId": 1
+    "CategoryId": 5
   },
   {
     "Name": "Vintage Rocking Chair",
@@ -29,7 +29,7 @@
     "Price": 245,
     "ImageUrl": "Images/Product/Chairs/Vintage Rocking Chair.jpg",
     "QuantityInStock": 4,
-    "CategoryId": 1
+    "CategoryId": 5
   },
   {
     "Name": "Metal Frame Chair",
@@ -37,7 +37,7 @@
     "Price": 260,
     "ImageUrl": "Images/Product/Chairs/Metal Frame Chair.jpg",
     "QuantityInStock": 5,
-    "CategoryId": 1
+    "CategoryId": 5
   },
   {
     "Name": "High Back Kitchen Chair",
@@ -45,7 +45,7 @@
     "Price": 275,
     "ImageUrl": "Images/Product/Chairs/High Back Kitchen Chair.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 1
+    "CategoryId": 5
   },
   {
     "Name": "Velvet Armchair",
@@ -53,7 +53,7 @@
     "Price": 200,
     "ImageUrl": "Images/Product/Armchair/Velvet Armchair.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 3
+    "CategoryId": 7
   },
   {
     "Name": "Reclining Armchair",
@@ -61,7 +61,7 @@
     "Price": 215,
     "ImageUrl": "Images/Product/Armchair/Reclining Armchair.jpg",
     "QuantityInStock": 2,
-    "CategoryId": 3
+    "CategoryId": 7
   },
   {
     "Name": "Tufted Armchair",
@@ -69,7 +69,7 @@
     "Price": 230,
     "ImageUrl": "Images/Product/Armchair/Tufted Armchair.jpg",
     "QuantityInStock": 3,
-    "CategoryId": 3
+    "CategoryId": 7
   },
   {
     "Name": "Mid-Century Armchair",
@@ -77,7 +77,7 @@
     "Price": 245,
     "ImageUrl": "Images/Product/Armchair/Mid-Century Armchair.jpg",
     "QuantityInStock": 4,
-    "CategoryId": 3
+    "CategoryId": 7
   },
   {
     "Name": "Swivel Armchair",
@@ -85,7 +85,7 @@
     "Price": 260,
     "ImageUrl": "Images/Product/Armchair/Swivel Armchair.jpg",
     "QuantityInStock": 5,
-    "CategoryId": 3
+    "CategoryId": 7
   },
   {
     "Name": "Classic Fabric Armchair",
@@ -93,7 +93,7 @@
     "Price": 275,
     "ImageUrl": "Images/Product/Armchair/Classic Fabric Armchair.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 3
+    "CategoryId": 7
   },
   {
     "Name": "Glass Coffee Table",
@@ -101,7 +101,7 @@
     "Price": 200,
     "ImageUrl": "Images/Product/Tables/Glass Coffee Table.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 2
+    "CategoryId": 6
   },
   {
     "Name": "Wooden Dining Table",
@@ -109,7 +109,7 @@
     "Price": 215,
     "ImageUrl": "Images/Product/Tables/Wooden Dining Table.jpg",
     "QuantityInStock": 2,
-    "CategoryId": 2
+    "CategoryId": 6
   },
   {
     "Name": "Round End Table",
@@ -117,7 +117,7 @@
     "Price": 230,
     "ImageUrl": "Images/Product/Tables/Round End Table.jpg",
     "QuantityInStock": 3,
-    "CategoryId": 2
+    "CategoryId": 6
   },
   {
     "Name": "Console Hall Table",
@@ -125,7 +125,7 @@
     "Price": 245,
     "ImageUrl": "Images/Product/Tables/Console Hall Table.jpg",
     "QuantityInStock": 4,
-    "CategoryId": 2
+    "CategoryId": 6
   },
   {
     "Name": "Rustic Farmhouse Table",
@@ -133,7 +133,7 @@
     "Price": 260,
     "ImageUrl": "Images/Product/Tables/Rustic Farmhouse Table.jpg",
     "QuantityInStock": 5,
-    "CategoryId": 2
+    "CategoryId": 6
   },
   {
     "Name": "Expandable Dining Table",
@@ -141,7 +141,7 @@
     "Price": 275,
     "ImageUrl": "Images/Product/Tables/Expandable Dining Table.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 2
+    "CategoryId": 6
   },
   {
     "Name": "Floor Reading Lamp",
@@ -149,7 +149,7 @@
     "Price": 200,
     "ImageUrl": "Images/Product/Lamps/Floor Reading Lamp.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 4
+    "CategoryId": 8
   },
   {
     "Name": "Adjustable Desk Lamp",
@@ -157,7 +157,7 @@
     "Price": 215,
     "ImageUrl": "Images/Product/Lamps/Adjustable Desk Lamp.jpg",
     "QuantityInStock": 2,
-    "CategoryId": 4
+    "CategoryId": 8
   },
   {
     "Name": "Vintage Table Lamp",
@@ -165,7 +165,7 @@
     "Price": 230,
     "ImageUrl": "Images/Product/Lamps/Vintage Table Lamp.jpg",
     "QuantityInStock": 3,
-    "CategoryId": 4
+    "CategoryId": 8
   },
   {
     "Name": "Modern Arc Lamp",
@@ -173,7 +173,7 @@
     "Price": 245,
     "ImageUrl": "Images/Product/Lamps/Modern Arc Lamp.jpg",
     "QuantityInStock": 4,
-    "CategoryId": 4
+    "CategoryId": 8
   },
   {
     "Name": "Industrial Style Lamp",
@@ -181,7 +181,7 @@
     "Price": 260,
     "ImageUrl": "Images/Product/Lamps/Industrial Style Lamp.jpg",
     "QuantityInStock": 5,
-    "CategoryId": 4
+    "CategoryId": 8
   },
   {
     "Name": "LED Standing Lamp",
@@ -189,7 +189,7 @@
     "Price": 275,
     "ImageUrl": "Images/Product/Lamps/Industrial Style Lamp.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 4
+    "CategoryId": 8
   },
   {
     "Name": "3-Seater Sofa",
@@ -197,7 +197,7 @@
     "Price": 200,
     "ImageUrl": "Images/Product/Sofa/3-Seater Sofa.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 5
+    "CategoryId": 9
   },
   {
     "Name": "L-Shaped Sectional Sofa",
@@ -205,7 +205,7 @@
     "Price": 215,
     "ImageUrl": "Images/Product/Sofa/L-Shaped Sectional Sofa.jpg",
     "QuantityInStock": 2,
-    "CategoryId": 5
+    "CategoryId": 9
   },
   {
     "Name": "Modern Grey Sofa",
@@ -213,7 +213,7 @@
     "Price": 230,
     "ImageUrl": "Images/Product/Sofa/Modern Grey Sofa.jpg",
     "QuantityInStock": 3,
-    "CategoryId": 5
+    "CategoryId": 9
   },
   {
     "Name": "Velvet Loveseat",
@@ -221,7 +221,7 @@
     "Price": 245,
     "ImageUrl": "Images/Product/Sofa/Velvet Loveseat.jpg",
     "QuantityInStock": 4,
-    "CategoryId": 5
+    "CategoryId": 9
   },
   {
     "Name": "Leather Recliner Sofa",
@@ -229,7 +229,7 @@
     "Price": 260,
     "ImageUrl": "Images/Product/Sofa/Leather Recliner Sofa.jpg",
     "QuantityInStock": 5,
-    "CategoryId": 5
+    "CategoryId": 9
   },
   {
     "Name": "Classic Fabric Sofa",
@@ -237,6 +237,6 @@
     "Price": 275,
     "ImageUrl": "Images/Product/Sofa/Classic Fabric Sofa.jpg",
     "QuantityInStock": 1,
-    "CategoryId": 5
+    "CategoryId": 9
   }
 ]
