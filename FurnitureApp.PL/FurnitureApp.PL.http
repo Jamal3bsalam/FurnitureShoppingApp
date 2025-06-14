@@ -1,0 +1,6 @@
+@FurnitureApp.PL_HostAddress = http://localhost:5214
+
+GET {{FurnitureApp.PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
