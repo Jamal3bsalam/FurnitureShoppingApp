@@ -52,4 +52,10 @@ This project is a backend RESTful API for a Furniture E-commerce App that provid
 ## 🏗️ Architecture
 
 The project follows **Onion Architecture** for clean, maintainable, and scalable structure.
+FurnitureApp
+│
+├── Presentation Layer (API)
+├── Application Layer (Services, DTOs)
+├── Domain Layer (Entities, Interfaces)
+└── Infrastructure Layer (Repositories, EF Core, Database)
 
