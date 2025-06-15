@@ -1,67 +1,55 @@
-# 🛒 Furniture Shopping App - E-commerce API
+<h1 align="center">🛒 Furniture Shopping App - E-commerce API</h1>
 
-This is a backend API project for an E-commerce Furniture Application built using ASP.NET Core Web API. The project supports core e-commerce features including Authentication, User Profile Management, Product Browsing, Reviews, Orders, Cart management, and more.
+<p align="center">
+  A scalable and well-architected ASP.NET Core Web API project for managing furniture shopping operations with full authentication, product management, orders, cart, and more.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Onion-blue" />
+  <img src="https://img.shields.io/badge/Pattern-Repository%20%26%20UoW-green" />
+  <img src="https://img.shields.io/badge/API-REST%20API-orange" />
+  <img src="https://img.shields.io/badge/Stripe-Payment-red" />
+</p>
 
 ---
 
-## 🚀 Project Features
+## 📦 Project Overview
 
-- 🔐 **Authentication & Authorization** (Register, Login, JWT Token)
-- 👤 **User Profile Management**
-  - View, update profile details
-  - Upload, update, or delete profile images
-- 🚚 **Shipping Address Management**
-  - Add, update, delete one or multiple shipping addresses
+This project is a backend RESTful API for a Furniture E-commerce App that provides:
+- User registration and login
+- Profile management with image upload
+- Shipping address management
+- Full product browsing with filtering by category
+- Review, cart, and order handling
+- Stripe payment integration
+
+---
+
+## ✨ Core Features
+
+- 🔐 **Authentication & Authorization**
+  - Register, Login, JWT token support
+- 👤 **User Profile**
+  - View, update profile data
+  - Upload, update, and delete profile images
+- 🚚 **Shipping Address**
+  - Add, update, delete one or multiple addresses
 - 🛋️ **Product Management**
-  - Get all products
+  - Retrieve all products
   - Get product by ID
-  - Get products by category
-  - Get all categories
-- ⭐ **Review Module**
-  - Add reviews for products
-  - Manage and update reviews
-- 🛒 **Cart Module**
-  - Add to cart
-  - View and manage cart items
-- 📦 **Order Module**
-  - Place orders
-  - Manage order history
-- 💳 **Payment Integration** (Stripe API)
+  - Filter products by category
+  - View all categories
+- ⭐ **Review System**
+  - Add, update, and manage product reviews
+- 🛒 **Cart Management**
+  - Add, update, and delete cart items
+- 📦 **Order Processing**
+  - Place orders and track order history
+- 💳 **Stripe Payment Integration**
 
 ---
 
-## 🛠️ Technologies Used
+## 🏗️ Architecture
 
-- ASP.NET Core Web API
-- Entity Framework Core
-- SQL Server
-- Onion Architecture
-- Generic Repository Pattern
-- Unit of Work Pattern
-- Specification Design Pattern
-- JWT Authentication
-- Stripe Payment Gateway
+The project follows **Onion Architecture** for clean, maintainable, and scalable structure.
 
----
-
-## 🗂️ Project Architecture
-
-The project follows **Onion Architecture**:
-- Presentation Layer (API Controllers)
-- Application Layer (Business Logic)
-- Domain Layer (Entities & Interfaces)
-- Infrastructure Layer (Repositories, Database Context)
-
----
-
-## ⚙️ Getting Started
-
-### Prerequisites:
-- [.NET SDK](https://dotnet.microsoft.com/en-us/download)
-- SQL Server
-- Visual Studio or VS Code
-
-### Setup Instructions:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Jamal3bsalam/FurnitureShoppingApp.git
